@@ -23,3 +23,8 @@ vroom vroom
 https://www.youtube.com/watch?v=GN0xHSk2P8Q
 
 _and how was it_
+
+## direct embed code
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/aoLhACqJCUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
