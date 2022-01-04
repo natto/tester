@@ -17,3 +17,9 @@ vroom vroom
 # video???
 
 ![https://i.imgur.com/d2VrLId.mp4](https://i.imgur.com/d2VrLId.mp4)
+
+## youtube?
+
+https://www.youtube.com/watch?v=GN0xHSk2P8Q
+
+_and how was it_
